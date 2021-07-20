@@ -1,0 +1,8 @@
+temps
+.ipynb_checkpoints
+docs/build/
+docs/site/
+.DS_Store
+*Manifest.toml
+
+examples/rotornoise/singlerotor-*
